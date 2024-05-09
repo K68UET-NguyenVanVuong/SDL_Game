@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715236691 source:c:\users\vuong\documents\gametulam\gamequayco\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
